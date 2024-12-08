@@ -1,9 +1,3 @@
-/*
-  Author: Mostofa Adib Shakib
-  Language: C++
-  Date: 11/02/2020
-*/
-
 #include <iostream>
 #include <fstream>
 #include <string.h>
